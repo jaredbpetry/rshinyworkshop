@@ -1,0 +1,11 @@
+name: shiny_dashboard
+title:
+username:
+account: jaredpetry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8151405
+bundleId: 6782344
+url: https://jaredpetry.shinyapps.io/shiny_dashboard/
+when: 1674854746.41734
+lastSyncTime: 1674854746.41735

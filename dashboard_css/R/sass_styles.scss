@@ -1,0 +1,31 @@
+// this is how you make a comment is a sass css file 
+
+// fonts:
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+$japan: 'Quicksand', sans-serif;
+
+//sass variables:
+
+$pink: #a8328b;
+$blue: #383391;
+$green: #1aed41;
+
+//css rules: 
+h1 {
+  color: $pink;
+  font-family: $japan;
+}
+
+h2 {
+  color: $green;
+}
+
+h3 {
+  color: $blue;
+}
+
+//This element was found via "inspect element" with a right click inside the thing you want to edit!important!
+.box-body {
+  color: $pink;
+}
